@@ -1,0 +1,1 @@
+start C:\Users\guyno\Desktop\start\InfoApp\infocheck.vbs

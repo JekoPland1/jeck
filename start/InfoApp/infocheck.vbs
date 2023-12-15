@@ -1,0 +1,1 @@
+x=msgbox("you dont have access to this app ",64+0,"System Error")
